@@ -40,7 +40,6 @@ In many universities, booking a conference room involves manually filling forms 
 smart-conference-room-booking/
 ├── scanner.py                        # Main barcode scanner client (improved)
 ├── barcode_scanner.py                # Barcode scanner client (base version)
-├── Final_IOT_V.mp4                   # Project demo video
 ├── iot.png                           # Project poster
 ├── NEW_smart_library_poster.png      # Smart library poster
 ├── .gitignore
@@ -120,7 +119,7 @@ smart-conference-room-booking/
 
 ## Demo & Media
 
-- **Demo Video:** [Final_IOT_V.mp4](Final_IOT_V.mp4)
+- **Demo Video:** [Final_IOT_V.mp4](https://drive.google.com/file/d/1u4YbGjJ4KvbKSJ7IvFFGAL5zisRS-aYV/view?usp=drive_link)
 - **Poster:** [iot.png](iot.png)
 - **Smart Library Poster:** [NEW_smart_library_poster.png](NEW_smart_library_poster.png)
 
