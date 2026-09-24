@@ -38,8 +38,11 @@ In many universities, booking a conference room involves manually filling forms 
 
 ```
 smart-conference-room-booking/
-├── scanner.py              # Main barcode scanner client (improved)
-├── barcode_scanner.py      # Barcode scanner client (base version)
+├── scanner.py                        # Main barcode scanner client (improved)
+├── barcode_scanner.py                # Barcode scanner client (base version)
+├── Final_IOT_V.mp4                   # Project demo video
+├── iot.png                           # Project poster
+├── NEW_smart_library_poster.png      # Smart library poster
 ├── .gitignore
 └── README.md
 ```
@@ -115,9 +118,11 @@ smart-conference-room-booking/
 - **Libraries** - Visitors book discussion rooms or private study areas
 - **Co-working Spaces** - Members reserve shared meeting rooms on demand
 
-## Resume Description
+## Demo & Media
 
-> Developed an IoT-based Smart Conference Room Booking System using Python, OpenCV, Flask, and Google Sheets API. Implemented real-time barcode scanning of university ID cards to auto-fill Google Forms and automatically assign available conference rooms. Built a cloud-based Google Sheets dashboard for real-time booking visibility. Deployed the backend on Raspberry Pi, enabling seamless integration between hardware and cloud services.
+- **Demo Video:** [Final_IOT_V.mp4](Final_IOT_V.mp4)
+- **Poster:** [iot.png](iot.png)
+- **Smart Library Poster:** [NEW_smart_library_poster.png](NEW_smart_library_poster.png)
 
 ## License
 
@@ -125,5 +130,5 @@ This project is open-source and available for educational and personal use.
 
 ---
 
-**Author:** Dhruv Patel  
-**GitHub:** [Dhruv1685](https://github.com/Dhruv1685)
+**Authors:** [Dhruv Patel](https://github.com/Dhruv1685) · [Pratham Mevada](https://github.com/PrathamMevada23)  
+**GitHub:** [Dhruv1685](https://github.com/Dhruv1685) · [PrathamMevada23](https://github.com/PrathamMevada23)
